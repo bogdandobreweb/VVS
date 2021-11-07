@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace VVS.Controllers
 {
     [ApiController]
-    [Route("[DOBRE]")]
+    [Route("DOBRE")]
     public class WeatherForecastController : ControllerBase
     {
         private static readonly string[] Summaries = new[]
